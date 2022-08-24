@@ -2,4 +2,8 @@
   text-align: center;
 }
 
-
+.children {
+  width: 100%;
+  justify-content: space-around;
+  display: flex
+}
